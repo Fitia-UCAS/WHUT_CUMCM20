@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}问题重述}{1}{section.1}%
+\contentsline {subsection}{\numberline {1\,.\,1}问题背景}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1\,.\,2}问题概述}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}模型假设}{1}{section.2}%
+\contentsline {section}{\numberline {3}符号说明}{2}{section.3}%
+\contentsline {section}{\numberline {4}数据预处理}{2}{section.4}%
+\contentsline {subsection}{\numberline {4\,.\,1}归一化处理}{3}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,1}灰度值处理}{3}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,2}外框去除与尺度统一}{3}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4\,.\,2}图像增强处理}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4\,.\,3}二值化处理}{5}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,1}场方向估计}{5}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,2}二值化}{6}{subsubsection.4.3.2}%
+\contentsline {section}{\numberline {5}问题一模型的建立与求解}{6}{section.5}%
+\contentsline {subsection}{\numberline {5\,.\,1}问题描述与分析}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5\,.\,2}搭建卷积自编码器模型}{7}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5\,.\,2\,.\,1}卷积神经网络}{7}{subsubsection.5.2.1}%
+\contentsline {paragraph}{卷积核}{7}{section*.7}%
+\contentsline {paragraph}{池化}{7}{section*.9}%
+\contentsline {paragraph}{激活}{8}{section*.11}%
+\contentsline {subsubsection}{\numberline {5\,.\,2\,.\,2}卷积自编码器}{8}{subsubsection.5.2.2}%
+\contentsline {subsection}{\numberline {5\,.\,3}实验结果及分析}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5\,.\,4}灵敏度分析}{11}{subsection.5.4}%
+\contentsline {section}{\numberline {6}问题二模型的建立与求解}{12}{section.6}%
+\contentsline {subsection}{\numberline {6\,.\,1}问题分析与相似度计算}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6\,.\,2}实验结果及分析}{12}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6\,.\,3}灵敏度分析}{13}{subsection.6.3}%
+\contentsline {section}{\numberline {7}问题三模型的建立与求解}{14}{section.7}%
+\contentsline {subsection}{\numberline {7\,.\,1}问题描述与分析}{14}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7\,.\,2}k-medoids模型的建立与求解}{14}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7\,.\,3}实验结果及分析}{14}{subsection.7.3}%
+\contentsline {section}{\numberline {8}模型的评价}{15}{section.8}%
+\contentsline {subsection}{\numberline {8\,.\,1}模型的优点}{15}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8\,.\,2}模型的缺点}{16}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8\,.\,3}模型总结与展望}{16}{subsection.8.3}%
+\contentsline {section}{\numberline {附录A}第一问代码实现及可视化}{19}{appendix.A}%
+\contentsline {section}{\numberline {附录B}第二、三问代码实现及可视化}{22}{appendix.B}%
+\contentsfinish 
