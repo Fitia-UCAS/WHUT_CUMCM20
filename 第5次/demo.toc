@@ -1,35 +1,44 @@
-\contentsline {section}{\numberline {1}问题重述}{2}{section.1}%
-\contentsline {subsection}{\numberline {1\,.\,1}问题背景}{2}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1\,.\,2}问题概述}{3}{subsection.1.2}%
-\contentsline {section}{\numberline {2}模型假设}{3}{section.2}%
-\contentsline {section}{\numberline {3}符号说明}{3}{section.3}%
-\contentsline {section}{\numberline {4}炼钢、连铸、热轧一体化生产组织、工艺过程特点}{4}{section.4}%
-\contentsline {subsection}{\numberline {4\,.\,1}基本物流要素和流动体系表示}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4\,.\,2}炼钢、连铸生产动态调度特点}{5}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4\,.\,3}热轧生产计划编制问题特点}{6}{subsection.4.3}%
-\contentsline {section}{\numberline {5}一体化调度问题模型的建立与求解}{7}{section.5}%
-\contentsline {subsection}{\numberline {5\,.\,1}问题描述与分析}{7}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5\,.\,2}生产优化目标}{8}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5\,.\,2\,.\,1}产能目标函数}{8}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5\,.\,2\,.\,2}时间目标函数}{9}{subsubsection.5.2.2}%
-\contentsline {subsection}{\numberline {5\,.\,3}工艺约束条件}{9}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5\,.\,3\,.\,1}组炉约束}{10}{subsubsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5\,.\,3\,.\,2}组浇约束}{10}{subsubsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5\,.\,3\,.\,3}热轧单元约束}{11}{subsubsection.5.3.3}%
-\contentsline {subsection}{\numberline {5\,.\,4}炼钢——连铸——热轧动态协调算法}{12}{subsection.5.4}%
-\contentsline {subsubsection}{\numberline {5\,.\,4\,.\,1}插板式编码}{12}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5\,.\,4\,.\,2}NSGA-II算法}{13}{subsubsection.5.4.2}%
-\contentsline {paragraph}{step1:}{13}{section*.13}%
-\contentsline {paragraph}{step2:}{13}{section*.14}%
-\contentsline {paragraph}{step3:}{14}{section*.15}%
-\contentsline {paragraph}{step4:}{14}{section*.16}%
-\contentsline {section}{\numberline {6}仿真实验与结果及分析}{15}{section.6}%
-\contentsline {subsection}{\numberline {6\,.\,1}实验数据及参数设置}{15}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6\,.\,2}实验结果}{15}{subsection.6.2}%
-\contentsline {section}{\numberline {7}灵敏度分析}{17}{section.7}%
-\contentsline {section}{\numberline {8}模型评价}{19}{section.8}%
-\contentsline {subsection}{\numberline {8\,.\,1}模型的优点}{19}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8\,.\,2}模型的缺点}{19}{subsection.8.2}%
-\contentsline {section}{参考文献}{19}{subsection.8.2}%
-\contentsline {section}{\numberline {附录A}NSGA-II仿真实验代码}{20}{appendix.A}%
+\contentsline {section}{\numberline {1}问题重述}{1}{section.1}%
+\contentsline {subsection}{\numberline {1\,.\,1}问题背景}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1\,.\,2}问题概述}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}模型假设}{2}{section.2}%
+\contentsline {section}{\numberline {3}符号说明}{2}{section.3}%
+\contentsline {section}{\numberline {4}问题分析}{3}{section.4}%
+\contentsline {subsection}{\numberline {4\,.\,1}问题一的分析}{3}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,1}炼钢、连铸、热轧工艺特点分析}{3}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,2}数学建模需求分析}{4}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4\,.\,2}问题二的分析}{6}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,1}一体化调度问题分析}{6}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,2}多目标优化需求分析}{7}{subsubsection.4.2.2}%
+\contentsline {section}{\numberline {5}模型建立与求解}{8}{section.5}%
+\contentsline {subsection}{\numberline {5\,.\,1}问题一模型的建立与求解}{8}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5\,.\,1\,.\,1}模型建立}{8}{subsubsection.5.1.1}%
+\contentsline {paragraph}{炼钢、连铸、热轧工艺特点模型}{8}{section*.9}%
+\contentsline {paragraph}{约束条件}{9}{section*.10}%
+\contentsline {subsubsection}{\numberline {5\,.\,1\,.\,2}模型求解}{9}{subsubsection.5.1.2}%
+\contentsline {paragraph}{求解方法}{9}{section*.11}%
+\contentsline {subsection}{\numberline {5\,.\,2}问题二模型的建立与求解}{9}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5\,.\,2\,.\,1}模型建立}{9}{subsubsection.5.2.1}%
+\contentsline {paragraph}{多目标优化模型}{9}{section*.12}%
+\contentsline {paragraph}{插板式编码设计}{10}{section*.13}%
+\contentsline {paragraph}{工艺约束条件}{10}{section*.15}%
+\contentsline {subparagraph}{组炉约束}{11}{section*.16}%
+\contentsline {subparagraph}{组浇约束}{11}{section*.17}%
+\contentsline {subparagraph}{热轧单元约束}{11}{section*.20}%
+\contentsline {subsubsection}{\numberline {5\,.\,2\,.\,2}模型求解}{12}{subsubsection.5.2.2}%
+\contentsline {paragraph}{NSGA-II算法}{12}{section*.21}%
+\contentsline {subparagraph}{种群初始化}{12}{section*.23}%
+\contentsline {subparagraph}{交叉变异操作}{12}{section*.24}%
+\contentsline {subparagraph}{快速非支配排序}{12}{section*.25}%
+\contentsline {subparagraph}{循环迭代寻优与选解}{13}{section*.26}%
+\contentsline {paragraph}{求解结果与分析}{13}{section*.27}%
+\contentsline {section}{\numberline {6}仿真实验与结果分析}{13}{section.6}%
+\contentsline {subsection}{\numberline {6\,.\,1}实验数据及参数设置}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6\,.\,2}实验结果}{14}{subsection.6.2}%
+\contentsline {section}{\numberline {7}灵敏度分析}{15}{section.7}%
+\contentsline {section}{\numberline {8}模型评价}{17}{section.8}%
+\contentsline {subsection}{\numberline {8\,.\,1}模型的优点}{17}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8\,.\,2}模型的缺点}{17}{subsection.8.2}%
+\contentsline {section}{参考文献}{17}{subsection.8.2}%
+\contentsline {section}{\numberline {附录A}NSGA-II仿真实验代码}{18}{appendix.A}%
 \contentsfinish 
